@@ -22,4 +22,20 @@ This is ticket booking website for XYZ Cinemas.
 
 To visie the website got o this website xyzcinemas.ca.
 
+## Features
+
+There are lot of feature in website.
+in thia website you can get information about movie and theator to watch that movie.
+
+## How to Use
+
+To use firstly open the website and click on the book movie ticket.
+
+## Support
+
+contact information 
+contact no. :- (XXX)XXX-XXXX
+email:- abcdefghij@gmail.com
+
+
 
